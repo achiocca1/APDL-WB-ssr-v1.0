@@ -7,9 +7,9 @@ import numpy as np
 #######################################################################################################
 ################################ USER DEFINED PARAMETERS ##############################################
 #######################################################################################################
-WorkDir = "D:\\Andrea\\Scripts_Other_PC\\" # WD where all the scripts are located
-NewWorkDir = "D:\\Andrea\\Scripts_Other_PC\\" # Where you want to place the new file results folders
-NameProj = "PROGETTO" # Same project name you gave in the "Sequential_File_Running.py" script
+WorkDir = "D:\\FIRST\\SECOND\\THIRD" # WD where all the scripts are located
+NewWorkDir = "D:\\FIRST\\SECOND\\THIRD\\NEW" # Where you want to place the new file results folders
+NameProj = "PROJECT" # Same project name you gave in the "Sequential_File_Running.py" script
 Ext = ["db", "DSP", "esav", "full", "lis", "mac", "mntr", "rst", "stat"] # Extensions you want to copy
 #######################################################################################################
 #######################################################################################################
