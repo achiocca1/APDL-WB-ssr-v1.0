@@ -61,3 +61,5 @@ for scriptname, count in zip(Scriptnames, seqvect):
             src = WorkDir + NameProj + "_files/" + "dp0/APDL" + str(count) + "/ANSYS/" + scriptname + "." + extension
                 
         newPath = shutil.copy(src, NewWorkDir + scriptname, follow_symlinks=True)
+        
+print("FINISH")
