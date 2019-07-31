@@ -8,8 +8,8 @@ import time
 ############################### USER DEFINED PARAMETERS ###############################################
 #######################################################################################################
 #######################################################################################################
-WorkDir = "D:\\__RoundRobin\\Modi_I_Tetra\\ten_nodi\\Scripts\\" # WD where all the scripts are located
-NameProj = "PROGETTO" # Project name you want to assign at the entire project of WB
+WorkDir = "D:\\FIRST\\SECOND\\THIRD" # WD where all the scripts are located
+NameProj = "PROJECT" # Project name you want to assign at the entire project of WB
 #######################################################################################################
 #######################################################################################################
 #######################################################################################################
