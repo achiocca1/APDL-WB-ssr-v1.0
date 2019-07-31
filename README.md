@@ -1,9 +1,9 @@
 # APDL-WB-script
 This script is useful to start a sequence of APDL scripts in Workbench and solve them one by one automatically.<br/>
 <br/>
-#################################################################################################<br/>
-############################# HOW TO USE THE SCRIPT #############################################<br/>
-#################################################################################################<br/>
+################################################################################<br/>
+############################# HOW TO USE THE SCRIPT ############################<br/>
+################################################################################<br/>
 
 0- Put all the APDL scripts in a folder with ONLY the scripts inside.
 1- Open "Sequential_File_Running.py".
