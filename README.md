@@ -1,4 +1,4 @@
-# APDL-WB-script
+# APDL-WB-sequence-running-script
 This script is useful to start a sequence of APDL scripts in Workbench and solve them one by one automatically.<br/>
 <br/>
 ###########################################################################<br/>
