@@ -20,7 +20,7 @@ If you are interested in copying all or some files from the solution folders fol
 <br/>
 0- Open "Post_Process.py" with a python editor.<br/>
 1- Under "USER DEFINED PARAMETERS" put as directory (WorDir) the folder where you stored all the APDL scripts, give the path of the folder where you want to save the copied results (NewWorDir), give a name at the project (NameProj) and write all the extension you need to copy from the result folder (Ext).<br/>
-2- Run "Post_Process.py".
+2- Run "Post_Process.py".<br/>
 
 <br/>
 If you are interested in copying a specific type of file contained in the previously created folders follow these steps:
@@ -28,4 +28,4 @@ If you are interested in copying a specific type of file contained in the previo
 <br/>
 0- Open "Ext_Keeper.py" with a python editor.<br/>
 1- Under "USER DEFINED PARAMETERS" put as directory (WorKDir) the folder where you stored all the APDL folders deriving from "Post_Process.py". Write the extension of the files (Ext) you want to copy from the group of folders contained in "WorkDir". Give a name to the new folder (FoldName).<br/>
-2- Run "Ext_Keeper.py".
+2- Run "Ext_Keeper.py".<br/>
