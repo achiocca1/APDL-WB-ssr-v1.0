@@ -8,7 +8,7 @@ This script is useful to start a sequence of APDL scripts in Workbench and solve
 Run the scripts sequentially
 <br/>
 0- Put all the APDL scripts in a folder with ONLY the scripts inside.<br/>
-1- Open "Sequential_File_Running.py".<br/>
+1- Open "Sequential_File_Running.py" with a text reader (e.g. Notepad++).<br/>
 2- Under "USER DEFINED PARAMETERS" put as directory (WorDir) the folder where you stored all the APDL scripts and give a name at the project (NameProj).<br/>
 3- Open Ansys Workbench.<br/>
 4- Go to   FIle -> Scripting -> Run Script File.<br/>
