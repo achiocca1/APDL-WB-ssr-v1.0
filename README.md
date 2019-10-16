@@ -5,7 +5,7 @@ This script is useful to start a sequence of APDL scripts in Workbench and solve
 ######################## HOW TO USE THE SCRIPT ############################<br/>
 ###########################################################################<br/>
 <br/>
-Run the scripts in sequentially
+Run the scripts sequentially
 <br/>
 0- Put all the APDL scripts in a folder with ONLY the scripts inside.<br/>
 1- Open "Sequential_File_Running.py".<br/>
