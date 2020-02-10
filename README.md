@@ -20,7 +20,7 @@ If you are interested in copying all or some files from the solution folders fol
 <br/>
 0- Open "Post_Process.py" with a python editor.<br/>
 1- Under "USER DEFINED PARAMETERS" put as directory (WorDir) the folder where you stored all the APDL scripts, give the path of the folder where you want to save the copied results (NewWorDir), give a name at the project (NameProj) and write all the extensions you need to copy from the result folder (Ext).<br/>
-2- Make sure to leave all the scripts used for runnning the simulation on ANSYS in the folder "WorDir".<br/>
+2- Make sure to leave in the folder "WorDir" all the scripts used for running the simulation on ANSYS.<br/>
 3- Run "Post_Process.py".<br/>
 
 <br/>
