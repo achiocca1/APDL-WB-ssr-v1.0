@@ -1,5 +1,5 @@
 # APDL-WB-sequential-script-running
-This script is useful to start a sequence of APDL scripts in Workbench and solve them one by one automatically.<br/>
+This script is useful to start a sequence of Ansys APDL simulations in Workbench and solve them one by one automatically.<br/>
 <br/>
 ###########################################################################<br/>
 ######################## HOW TO USE THE SCRIPT ############################<br/>
