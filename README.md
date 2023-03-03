@@ -16,7 +16,7 @@ Run a series of APDL scripts automatically through these steps:
 
 <br/>
 If you are interested in copying all or some files from the solution folders follow these steps:
-[This script allows you to create one folder for each simulation and then copy some results in it]
+*This script allows you to create one folder for each simulation and then copy some results in it*
 <br/>
 0- Open "Post_Process.py" with a python editor.<br/>
 1- Under "USER DEFINED PARAMETERS" put as the directory (WorDir) the folder where you stored all the APDL scripts, provide the path of the folder where you want to save the copied results (NewWorDir), give a name at the project (NameProj) and write all the extensions you need to copy from the result folder (Ext).<br/>
