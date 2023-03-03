@@ -30,7 +30,7 @@ If you are interested in copying a specific type of file contained in the previo
 0- Open "Ext_Keeper.py" with a python editor.<br/>
 1- Under "USER DEFINED PARAMETERS" put as directory (WorKDir) the folder where you stored all the APDL folders deriving from "Post_Process.py". Write the extension of the files (Ext) you want to copy from the group of folders contained in "WorkDir". Give a name to the new folder (FoldName).<br/>
 2- Run "Ext_Keeper.py".<br/>
-
+<br/>
 Bug reports and suggestions are welcome! This software is regularly maintained.
 
-Contact me at andrea.chiocca@unipi.it if you need assistance.
+Contact me at andrea.chiocca@unipi.it if you need assistance.<br/>
